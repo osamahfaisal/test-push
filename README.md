@@ -1,3 +1,3 @@
-# name :[editor on GitHub](https://github.com/osamahfaisal/test-push/edit/gh-pages/const.md)
+# name :..
 #school :....
 
