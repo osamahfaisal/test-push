@@ -1,0 +1,12 @@
+#ifndef STACK_LNKED_LINKEDLIST_H
+#define STACK_LNKED_LINKEDLIST_H
+
+
+
+
+
+
+
+
+
+#endif //STACK_LNKED_LINKEDLIST_H
