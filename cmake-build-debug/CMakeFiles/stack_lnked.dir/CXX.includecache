@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-E:/C++ project/stack_lnked/main.cpp
+E:/test-push/main.cpp
 iostream
+-
+stack
 -
 
