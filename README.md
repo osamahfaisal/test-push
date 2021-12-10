@@ -1,3 +1,3 @@
-# name :[const.md](deco/const.md)
+# name :[editor on GitHub](https://github.com/osamahfaisal/test-push/edit/gh-pages/const.md)
 #school :....
 
