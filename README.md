@@ -1,3 +1,3 @@
-# name :[someLabel](https://github.com/osamahfaisal/test-push/const.md)
+# name :[someLabel](https://github.com/osamahfaisal/test-push/blob/master/const.md)
 #school :....
 
