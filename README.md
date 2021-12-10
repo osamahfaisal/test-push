@@ -1,3 +1,3 @@
-# name : [const](docs/CONTRIBUTING.md)
+# name :const.md
 #school :....
 
