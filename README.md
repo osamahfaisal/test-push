@@ -1,3 +1,3 @@
-# name :[const.md]
+# name :[const.md](deco/const.md)
 #school :....
 
