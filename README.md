@@ -1,3 +1,3 @@
-# name : [Contribution guidelines for this project](docs/const.md)
+# name : [const](docs/CONTRIBUTING.md)
 #school :....
 
