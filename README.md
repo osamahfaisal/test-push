@@ -1,3 +1,3 @@
-# name :
+# name : [link of the page](https://github.com/osamahfaisal/therd-/blob/gh-pages/index.md)
 #school :....
 
